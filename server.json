@@ -1,27 +1,44 @@
 {
-    "transactions": [{
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-01-04T13:08:20.814Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2023-01-04T13:18:20.814Z"
-        },
-        {
-            "id": 3,
-            "description": "Ignite curso",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1980,
-            "createdAt": "2023-01-04T13:18:24.814Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-04T13:08:20.814Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-01-04T13:18:20.814Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite curso",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-01-04T13:18:24.814Z"
+    },
+    {
+      "description": "Restaurante da viagem",
+      "price": 52,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2023-01-05T13:38:53.273Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte de Banana",
+      "price": 13,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-05T13:58:50.564Z",
+      "id": 5
+    }
+  ]
 }
